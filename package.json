@@ -1,0 +1,23 @@
+{
+  "name": "gestaoprojetos",
+  "version": "1.0.0",
+  "description": "Aula de Gestão de projetos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasSantino/GestaoProjetos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasSantino/GestaoProjetos/issues"
+  },
+  "homepage": "https://github.com/LucasSantino/GestaoProjetos#readme",
+  "dependencies": {
+    "connect-history-api-fallback": "^2.0.0",
+    "express": "^5.1.0"
+  }
+}
